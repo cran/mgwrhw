@@ -1,0 +1,13 @@
+391ac6141d1dcc66b281b3771a3fa8d5 *DESCRIPTION
+0779720bfcd0bfa86b175fd7cbf656f9 *NAMESPACE
+8597b81b5c7b97927f8fc1701faf8b68 *NEWS.md
+39f948e0756f216ee0992f197129c86d *R/mgwrhw.R
+b369cf6b9755fad462c2e1ffa39a9640 *R/redsb.R
+8dea2e28e7754d604f1f5003ed25fe83 *build/vignette.rds
+47c7dc41c05419e48e6629695f10ef30 *data/redsb.rda
+0180fc784209b9f90c017d316a6c11c2 *inst/doc/mgwrhw.R
+f0f83581298a198987712e0120ec4714 *inst/doc/mgwrhw.Rmd
+e3912d7030b50be438c5271f8e1f822e *inst/doc/mgwrhw.html
+e7f03899471e211cfcea10c153abb7dc *man/mgwrhw.Rd
+d1f9505db0f3da676b58145b19017f3c *man/redsb.Rd
+f0f83581298a198987712e0120ec4714 *vignettes/mgwrhw.Rmd
